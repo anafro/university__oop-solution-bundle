@@ -1,8 +1,11 @@
 /**
  * -----------------------------------------------
- * type_demangler
+ * Type demangler
  * -----------------------------------------------
- * ?
+ * Default value of 'typeid(...).name()' is not
+ * human-readable. To solve this problem, use the
+ * type() function from this module - just pass
+ * a value to it of type which name you want to know
  *
  * @since 1.0.0.0
  * @author Anatoly Frolov - contact@anafro.ru
