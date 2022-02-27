@@ -1,0 +1,5 @@
+if(EXISTS "D:/CLion Projects/bigint/cmake-build-debug/oop-test[1]_tests.cmake")
+  include("D:/CLion Projects/bigint/cmake-build-debug/oop-test[1]_tests.cmake")
+else()
+  add_test(oop-test_NOT_BUILT oop-test_NOT_BUILT)
+endif()
