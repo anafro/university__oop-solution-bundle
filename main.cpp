@@ -1,11 +1,10 @@
 #include <bigint_command_executor.h++>
-#include <iostream>
 #include "auth.h++"
 
 using namespace PROJECT_NAME;
 
 int main() {
-    ConsoleLogger logger = LoggerFactory::createConsoleLogger();
+    ConsoleLogger logger;
 
     // Command Executor
     logger.info("-- Big Integer Command Executor --");
