@@ -11,4 +11,5 @@ target_include_directories(bcrypt PUBLIC include/)
 # Забанен по причине дэбил
 # add_executable(test test/main.cpp)
 
-target_link_libraries(test PRIVATE bcrypt)
+# ты тоже забанен
+# target_link_libraries(test PRIVATE bcrypt)
