@@ -1,5 +1,0 @@
-if(EXISTS "D:/CLion Projects/bigint/cmake-build-debug/oop-production[1]_tests.cmake")
-  include("D:/CLion Projects/bigint/cmake-build-debug/oop-production[1]_tests.cmake")
-else()
-  add_test(oop-production_NOT_BUILT oop-production_NOT_BUILT)
-endif()
