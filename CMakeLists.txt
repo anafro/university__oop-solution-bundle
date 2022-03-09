@@ -58,7 +58,7 @@ set(CMAKE_CXX_STANDARD ${CPP_LANGUAGE_STANDARD})
 include_directories(${PROJECT_DIRECTORY})
 
 # Adding BCrypt to a project
-add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/third-party/bcrypt)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/third-party/BCrypt.cpp)
 
 macro(build building_mode main_file)
     log("Building...")
