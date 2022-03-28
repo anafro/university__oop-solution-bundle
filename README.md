@@ -1,4 +1,7 @@
-# OOP Solution Bundle
+# Object-oriented programming, Homework (C++)
+
+![This is a repository for a university task! I am kindly asking you not to review it until it will be converted to a standalone project, if it’ll.](https://github.com/anafro/anafro/blob/main/Banners/Github.Warning.University.png?raw=true "Warning banner")
+
 This is a bundle of solutions for tasks from University.
 
 To build the project, please, use the C++ version 20 or higher. CLang compilier is recommended.
